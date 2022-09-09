@@ -3,7 +3,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title xml:id="chekhov_a_drama_na_okhote_1884-1885">Драма на охоте. Электронная версия</title>
+    <title xml:id="chekhov_a_drama_na_okhote_1884">Драма на охоте. Электронная версия</title>
     <title type="sub">Истинное происшествие</title>
      <author>
        <persName>
@@ -55,7 +55,7 @@
        <title type="sub">Истинное происшествие</title>
        <title level="j">Новости дня</title>
       <biblScope unit="volume">1884 - №212... 1885 - №111</biblScope>
-       <date when="1884-1885" />
+       <date when="1884" />
      </bibl>
    </sourceDesc>
   </fileDesc>
