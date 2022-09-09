@@ -3,7 +3,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title xml:id="reshetnikov_f_glumovy_1866-1867">Глумовы. Электронная версия</title>
+    <title xml:id="reshetnikov_f_glumovy_1866">Глумовы. Электронная версия</title>
      <author>
        <persName>
          <forename>Федор</forename>
@@ -53,7 +53,7 @@
        <title type="main" level="a">Глумовы</title>
        <title level="j">Дело</title>
       <biblScope unit="volume">№ 2 (1866), 3,4,7,9 (1867)</biblScope>
-       <date when="1866-1867" />
+       <date when="1866" />
      </bibl>
    </sourceDesc>
   </fileDesc>
