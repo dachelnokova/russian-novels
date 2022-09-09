@@ -3,7 +3,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title xml:id="peshkov_a_troe_1900-1901">Трое. Электронная версия</title>
+    <title xml:id="peshkov_a_troe_1900">Трое. Электронная версия</title>
      <author>
        <persName>
          <forename>Алексей</forename>
@@ -53,7 +53,7 @@
        <title type="main" level="a">Трое</title>
        <title level="j">Жизнь</title>
       <biblScope unit="volume">11-12; 1-4</biblScope>
-       <date when="1900-1901" />
+       <date when="1900" />
      </bibl>
    </sourceDesc>
   </fileDesc>
