@@ -4,7 +4,7 @@
   <fileDesc>
    <titleStmt>
     <title xml:id="sheller-mikhajlov_a_zhizn_shupova_ego_rodnykh_i_znakomykh_1865">Жизнь Шупова, его родных и знакомых. Электронная версия</title>
-    <title type="sub">Автобиография в двух частях</title>
+    <title type="sub">Автобиография</title>
      <author>
        <persName>
          <forename>Александр</forename>
@@ -52,7 +52,7 @@
      <bibl>
        <author>Шеллер-Михайлов А.К.</author>
        <title type="main" level="a">Жизнь Шупова, его родных и знакомых</title>
-       <title type="sub">Автобиография в двух частях</title>
+       <title type="sub">Автобиография</title>
        <title level="j">Современник</title>
       <biblScope unit="volume">№2-3, 6-9</biblScope>
        <date when="1865" />
