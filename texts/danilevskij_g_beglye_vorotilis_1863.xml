@@ -3,7 +3,7 @@
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title xml:id="danilevskij_g_volya_beglye_vorotilis_1863">Воля (Беглые воротились). Электронная версия</title>
+    <title xml:id="danilevskij_g_volya_beglye_vorotilis_1863">Беглые воротились. Электронная версия</title>
     <title type="sub">Роман в двух частях</title>
      <author>
        <persName>
@@ -50,8 +50,8 @@
    </publicationStmt>
    <sourceDesc>
      <bibl>
-       <author>Данилевский Г.П.</author>
-       <title type="main" level="a">Воля (Беглые воротились)</title>
+       <author>Скавронский А.</author>
+       <title type="main" level="a">Беглые воротились</title>
        <title type="sub">Роман в двух частях</title>
        <title level="j">Время</title>
       <biblScope unit="volume">№ 1-2</biblScope>
